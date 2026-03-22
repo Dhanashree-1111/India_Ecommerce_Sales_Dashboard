@@ -1,6 +1,6 @@
 📊 India Ecommerce Sales Analysis Dashboard
 🚀 Project Overview
-This Power BI project provides a comprehensive analysis of sales performance and profitability for an ecommerce business operating in India. As a Computer Science graduate, I developed this dashboard to demonstrate data cleaning, DAX modeling, and interactive visualization techniques.
+This Power BI project provides a comprehensive analysis of sales performance and profitability for an ecommerce business operating in India. Developed this dashboard to demonstrate data cleaning, DAX modeling, and interactive visualization techniques.
 
 📈 Key Business Metrics
 Total Revenue: 438,000
