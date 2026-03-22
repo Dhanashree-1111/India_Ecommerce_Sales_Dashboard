@@ -23,4 +23,4 @@ Interactive Visuals: Geographic Bubble Map and Category-wise Profit Bar Charts.
 
 .csv: Raw dataset used for analysis.
 
-.pdf: Dashboard report preview.
+.png: Dashboard report preview.
